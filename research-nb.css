@@ -1,0 +1,23 @@
+obs {
+  color: #cc00cc;
+  font-weight: bold;
+}
+bad {
+  color: #cc5500;
+  font-weight: bold;
+}
+
+rfc {
+  color: #ff0000;
+  font-weight: bold;
+  background-color: #fff0f0;
+}
+vm {
+  color: #000044;
+  background-color: #f0f0ff;
+}
+
+todo {
+  color: #00bb00;
+  font-weight: bold;
+}
